@@ -111,6 +111,10 @@ h4{
 }
 
 #linkCurriculo{
-    padding-top: 3vh;
+    padding-top: 2vh;
     font-size: 1.7vh;
+}
+
+#castleDell{
+    font-size: 3vh;
 }
