@@ -2,7 +2,7 @@ body{
     margin:0;
     padding:0;
     width: 100vw;
-    height: 110vh;
+    height: 115vh;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: gray;
 }
@@ -10,7 +10,7 @@ body{
 #pagina{
     margin: auto;
     background-color: antiquewhite;
-    height: 107vh;
+    height: 112vh;
     width: 75vh;
 }
 
@@ -57,7 +57,7 @@ h4{
 #divContato{
     width: 100%;
     height: 12.5%;
-    background-color: lightblue;
+    background-color: lightslategray;
 }
 
 .meioContato{
@@ -103,4 +103,14 @@ h4{
 
 .lado{
     flex: 1
+}
+
+#divLinkCurriculo{
+    display: flex;
+    flex-direction: row;
+}
+
+#linkCurriculo{
+    padding-top: 3vh;
+    font-size: 1.7vh;
 }
